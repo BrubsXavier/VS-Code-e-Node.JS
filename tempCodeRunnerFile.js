@@ -1,0 +1,1 @@
+prompt("Digite o primeiro número: ")
